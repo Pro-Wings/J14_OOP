@@ -14,7 +14,7 @@ public class TestObjectCreation {
 		
 		b1.m2();
 		
-		A a2 = new B();
+//		A a2 = new B();
 		
 		System.out.println("main ended!!");
 		
